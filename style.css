@@ -40,3 +40,24 @@ ul {
 .main_nav ul {
     display: flex;
 }
+
+.main_menu {
+    flex: 1;
+    margin-left: 20px;
+}
+
+.logo {
+    width: 110px;
+}
+
+.main_nav ul li {
+    padding: 0 10px;
+}
+
+.main_nav ul li a {
+    padding-bottom: 2px;
+}
+
+.main_nav ul li a:hover {
+    border-bottom: 2px solid #262626;
+}
